@@ -1,0 +1,18 @@
+.WhiteText {
+    color: #FFFFF0;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width 70%;
+}
+
+.OxyOrange{
+    color: #FFA500;
+}
+
+#OxyLogo {
+    background-color: #ccccc;
+}
